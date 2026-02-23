@@ -1,7 +1,7 @@
 
-  # Todo app
+  # July - Hub Socrates
 
-  This is a code bundle for Todo app. The original project is available at https://www.figma.com/design/3clugdYETh5047pFAUAVUl/Todo-app.
+  This is a code bundle for July - Hub Socrates. The original project is available at https://www.figma.com/design/taSixtW9D7QHX0EfoLeF6p/July---Hub-Socrates.
 
   ## Running the code
 
